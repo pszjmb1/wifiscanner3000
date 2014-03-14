@@ -1,8 +1,10 @@
-package com.example.wifiscanner3000;
+package uk.ac.horizon.wayward.wifiscanner3000;
 
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
+
+import com.example.wifiscanner3000.R;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
